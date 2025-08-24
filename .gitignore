@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+/.vs/Overlay
+/Overlay/x64
+/x64/Release
